@@ -11,3 +11,5 @@
     - **Select caTools Package**
     - **Setting Seed and Split into Train and TestSet**
   - **Feature Scaling**
+- **[Simple Linear Regression in R](https://github.com/pritish-tripathy-aiml/R-AI-Machine-Learning/blob/main/simple_linear_regression_file.R)**
+  - **Importing the Dataset**
