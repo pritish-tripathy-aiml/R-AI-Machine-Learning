@@ -34,3 +34,4 @@
   - **Building the Optimal Model using Backward Elimination**
     - **Removing the State Independent Variable**
     - **Removing the Administration Independent Variable**
+    - **Removing the Marketing.Spend Independent Variable**
