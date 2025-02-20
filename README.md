@@ -23,3 +23,15 @@
     - **Install ggplot2 Package**
     - **Select ggplot2 Package**
   - **Visualizing the Test Set Results**
+- **[Multiple Linear Regression in R](https://github.com/pritish-tripathy-aiml/R-AI-Machine-Learning/blob/main/multiple_linear_regression_file.R)**
+  - **Importing the Dataset**
+  - **Importing the Dataset, Get your Data [here](https://github.com/pritish-tripathy-aiml/AI-ML-Repository/blob/main/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/R/Salary_Data.csv)**
+  - **Splitting the Dataset into Training and Test Set**
+    - **Install caTools Package**
+    - **Select caTools Package**
+  - **Fitting Simple Linear Regression to the Training Set**
+  - **Predicting the Test Set Results**
+  - **Visualizing the Training Set Results**
+    - **Install ggplot2 Package**
+    - **Select ggplot2 Package**
+  - **Visualizing the Test Set Results**
