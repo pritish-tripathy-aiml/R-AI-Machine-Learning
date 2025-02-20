@@ -33,4 +33,4 @@
   - **Predicting the Test Set Results**
   - **Building the Optimal Model using Backward Elimination**
     - **Removing the State Independent Variable**
-    - **Select ggplot2 Package**
+    - **Removing the Administration Independent Variable**
