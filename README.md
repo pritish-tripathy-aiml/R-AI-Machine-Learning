@@ -32,5 +32,5 @@
   - **Fitting Multiple Linear Regression to the Training Set**
   - **Predicting the Test Set Results**
   - **Building the Optimal Model using Backward Elimination**
-    - **Install ggplot2 Package**
+    - **Removing the State Independent Variable**
     - **Select ggplot2 Package**
