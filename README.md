@@ -31,7 +31,7 @@
     - **Select caTools Package**
   - **Fitting Multiple Linear Regression to the Training Set**
   - **Predicting the Test Set Results**
-  - **Visualizing the Training Set Results**
+  - **Building the Optimal Model using Backward Elimination**
     - **Install ggplot2 Package**
     - **Select ggplot2 Package**
   - **Visualizing the Test Set Results**
