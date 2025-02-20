@@ -29,7 +29,7 @@
   - **Splitting the Dataset into Training and Test Set**
     - **Install caTools Package**
     - **Select caTools Package**
-  - **Fitting Simple Linear Regression to the Training Set**
+  - **Fitting Multiple Linear Regression to the Training Set**
   - **Predicting the Test Set Results**
   - **Visualizing the Training Set Results**
     - **Install ggplot2 Package**
